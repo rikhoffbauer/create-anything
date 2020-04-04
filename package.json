@@ -1,0 +1,38 @@
+{
+  "name": "create-anything",
+  "version": "0.0.0",
+  "description": "Create any type of library, application (e.g. react-app with docker), cli and more",
+  "keywords": [
+    "npm-init",
+    "init",
+    "anything",
+    "react",
+    "node",
+    "browser",
+    "ssr",
+    "docker",
+    "express",
+    "cli",
+    "library",
+    "application",
+    "framework",
+    "create"
+  ],
+  "homepage": "https://github.com/rikhoffbauer/create-anything#readme",
+  "bugs": {
+    "url": "https://github.com/rikhoffbauer/create-anything/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rikhoffbauer/create-anything.git"
+  },
+  "license": "MIT",
+  "author": "Rik Hoffbauer <62353999+rikhoffbauer@users.noreply.github.com> (rikhoffbauer.github.io)",
+  "main": "index.js",
+  "bin": {
+    "create-anything": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
