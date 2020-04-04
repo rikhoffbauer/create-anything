@@ -1,6 +1,6 @@
 {
   "name": "create-anything",
-  "version": "0.0.0",
+  "version": "0.0.1-0",
   "description": "Create any type of library, application (e.g. react-app with docker), cli and more",
   "keywords": [
     "npm-init",
